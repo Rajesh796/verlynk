@@ -1,0 +1,36 @@
+.bookingcontainer{
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;
+}
+.bookingcard{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(66, 227, 103);
+    width: 100px;
+    height: 50px;
+    padding: 15px;
+    
+    border-radius: 18px;
+    align-items: center;
+    justify-content:space-around;
+   
+}
+.bookingcard-cancel{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 13, 9);
+    width: 100px;
+    height: 50px;
+    padding: 15px;
+    
+    border-radius: 18px;
+    align-items: center;
+    justify-content:space-around;
+   
+}
+.navlink{
+    text-decoration: none;
+    color: black;
+}
+
